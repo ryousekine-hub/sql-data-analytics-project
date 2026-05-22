@@ -1,6 +1,6 @@
 --CustomerReports
 --CREATE customer reports
-
+--
 CREATE VIEW gold.report_customer AS
 --CREATE VIEW is to create a view in the database to make this querry bellow be viewed outside of this sql doc
 --From here the report is ready to be pipelined to Tableau PowerBI or other visualization tool
