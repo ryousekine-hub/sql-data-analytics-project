@@ -3,7 +3,7 @@
 SELECT * FROM INFORMATION_SCHEMA.TABLES;
 SELECT * FROM INFORMATION_SCHEMA.COLUMNS
 WHERE TABLE_NAME = 'dim_customers'
-
+--another edit to test branching
 
 
 
